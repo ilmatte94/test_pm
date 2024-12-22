@@ -75,4 +75,12 @@ p {
         width: 80%;
     }
 
+    .footer_left {
+        float: none;
+    }
+    
+    .footer_right {
+        float: none;
+    }
+
 }
